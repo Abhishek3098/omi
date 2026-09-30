@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "屏幕上显示的内容",
     "meetingScreenshotFallbackCaption": "本次会议的屏幕截图",
     "deleteMeetingScreenshotTitle": "删除屏幕截图？",
-    "deleteMeetingScreenshotMessage": "这会从本次会议的笔记中移除该屏幕截图。此操作无法撤销。"
+    "deleteMeetingScreenshotMessage": "这会从本次会议的笔记中移除该屏幕截图。此操作无法撤销。",
+    "siriShortcutsSetupHint": "在快捷指令 → Siri 中开启 Omi。说“{askPhrase}”或“{questionPhrase}”，然后提出你的问题。",
+    "siriShortcutsSearchHint": " 你还可以说“{searchPhrase} for what I did today”。"
 }

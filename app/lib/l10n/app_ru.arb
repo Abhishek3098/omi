@@ -3696,5 +3696,7 @@
     "meetingScreenshotsTitle": "Что было на экране",
     "meetingScreenshotFallbackCaption": "Снимок экрана с этой встречи",
     "deleteMeetingScreenshotTitle": "Удалить снимок экрана?",
-    "deleteMeetingScreenshotMessage": "Снимок экрана будет удалён из заметки этой встречи. Это действие нельзя отменить."
+    "deleteMeetingScreenshotMessage": "Снимок экрана будет удалён из заметки этой встречи. Это действие нельзя отменить.",
+    "siriShortcutsSetupHint": "Включите Omi в Командах → Siri. Скажите «{askPhrase}» или «{questionPhrase}», затем задайте свой вопрос.",
+    "siriShortcutsSearchHint": " Также можно сказать «{searchPhrase} for what I did today»."
 }

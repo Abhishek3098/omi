@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "Kas buvo ekrane",
     "meetingScreenshotFallbackCaption": "Šio susitikimo ekrano kopija",
     "deleteMeetingScreenshotTitle": "Ištrinti ekrano kopiją?",
-    "deleteMeetingScreenshotMessage": "Ekrano kopija bus pašalinta iš šio susitikimo užrašo. Šio veiksmo anuliuoti negalima."
+    "deleteMeetingScreenshotMessage": "Ekrano kopija bus pašalinta iš šio susitikimo užrašo. Šio veiksmo anuliuoti negalima.",
+    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
+    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
 }

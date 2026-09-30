@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "Що було на екрані",
     "meetingScreenshotFallbackCaption": "Знімок екрана з цієї зустрічі",
     "deleteMeetingScreenshotTitle": "Видалити знімок екрана?",
-    "deleteMeetingScreenshotMessage": "Знімок екрана буде видалено з нотатки цієї зустрічі. Цю дію не можна скасувати."
+    "deleteMeetingScreenshotMessage": "Знімок екрана буде видалено з нотатки цієї зустрічі. Цю дію не можна скасувати.",
+    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
+    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
 }

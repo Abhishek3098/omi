@@ -11221,5 +11221,7 @@
     "meetingScreenshotsTitle": "Ano ang nasa screen",
     "meetingScreenshotFallbackCaption": "Screenshot mula sa meeting na ito",
     "deleteMeetingScreenshotTitle": "Burahin ang Screenshot?",
-    "deleteMeetingScreenshotMessage": "Aalisin nito ang screenshot sa note ng meeting na ito. Hindi na ito maibabalik."
+    "deleteMeetingScreenshotMessage": "Aalisin nito ang screenshot sa note ng meeting na ito. Hindi na ito maibabalik.",
+    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
+    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
 }

@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "Kas bija ekrānā",
     "meetingScreenshotFallbackCaption": "Ekrānuzņēmums no šīs sapulces",
     "deleteMeetingScreenshotTitle": "Dzēst ekrānuzņēmumu?",
-    "deleteMeetingScreenshotMessage": "Ekrānuzņēmums tiks noņemts no šīs sapulces piezīmes. To nevar atsaukt."
+    "deleteMeetingScreenshotMessage": "Ekrānuzņēmums tiks noņemts no šīs sapulces piezīmes. To nevar atsaukt.",
+    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
+    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
 }

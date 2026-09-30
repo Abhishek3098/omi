@@ -3703,5 +3703,7 @@
     "meetingScreenshotsTitle": "Hvad der var på skærmen",
     "meetingScreenshotFallbackCaption": "Skærmbillede fra dette møde",
     "deleteMeetingScreenshotTitle": "Slet skærmbillede?",
-    "deleteMeetingScreenshotMessage": "Dette fjerner skærmbilledet fra mødets note. Det kan ikke fortrydes."
+    "deleteMeetingScreenshotMessage": "Dette fjerner skærmbilledet fra mødets note. Det kan ikke fortrydes.",
+    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
+    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
 }

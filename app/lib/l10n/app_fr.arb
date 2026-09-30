@@ -3696,5 +3696,7 @@
     "meetingScreenshotsTitle": "Ce qui était à l'écran",
     "meetingScreenshotFallbackCaption": "Capture d'écran de cette réunion",
     "deleteMeetingScreenshotTitle": "Supprimer la capture d'écran ?",
-    "deleteMeetingScreenshotMessage": "La capture d'écran sera retirée de la note de cette réunion. Cette action est irréversible."
+    "deleteMeetingScreenshotMessage": "La capture d'écran sera retirée de la note de cette réunion. Cette action est irréversible.",
+    "siriShortcutsSetupHint": "Activez Omi dans Raccourcis → Siri. Dites « {askPhrase} » ou « {questionPhrase} », puis posez votre question.",
+    "siriShortcutsSearchHint": " Vous pouvez aussi dire « {searchPhrase} for what I did today »."
 }

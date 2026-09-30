@@ -11614,4 +11614,14 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get deleteMeetingScreenshotMessage =>
       'यह इस मीटिंग के नोट से स्क्रीनशॉट हटा देगा। इसे पूर्ववत नहीं किया जा सकता।';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return 'शॉर्टकट → Siri में Omi चालू करें। “$askPhrase” या “$questionPhrase” कहकर अपना प्रश्न पूछें।';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' आप “$searchPhrase for what I did today” भी कह सकते हैं।';
+  }
 }

@@ -11655,4 +11655,14 @@ class AppLocalizationsUk extends AppLocalizations {
   @override
   String get deleteMeetingScreenshotMessage =>
       'Знімок екрана буде видалено з нотатки цієї зустрічі. Цю дію не можна скасувати.';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return 'Turn on Omi in Shortcuts → Siri. Say “$askPhrase” or “$questionPhrase,” then speak your question.';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' You can also say “$searchPhrase for what I did today.”';
+  }
 }

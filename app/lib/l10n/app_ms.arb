@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "Apa yang ada di skrin",
     "meetingScreenshotFallbackCaption": "Tangkapan skrin daripada mesyuarat ini",
     "deleteMeetingScreenshotTitle": "Padam tangkapan skrin?",
-    "deleteMeetingScreenshotMessage": "Ini akan mengalih keluar tangkapan skrin daripada nota mesyuarat ini. Tindakan ini tidak boleh dibuat asal."
+    "deleteMeetingScreenshotMessage": "Ini akan mengalih keluar tangkapan skrin daripada nota mesyuarat ini. Tindakan ini tidak boleh dibuat asal.",
+    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
+    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
 }

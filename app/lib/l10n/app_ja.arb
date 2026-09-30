@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "画面に表示されていた内容",
     "meetingScreenshotFallbackCaption": "このミーティングのスクリーンショット",
     "deleteMeetingScreenshotTitle": "スクリーンショットを削除しますか？",
-    "deleteMeetingScreenshotMessage": "このミーティングのメモからスクリーンショットを削除します。この操作は取り消せません。"
+    "deleteMeetingScreenshotMessage": "このミーティングのメモからスクリーンショットを削除します。この操作は取り消せません。",
+    "siriShortcutsSetupHint": "ショートカット→SiriでOmiをオンにします。「{askPhrase}」または「{questionPhrase}」と言ってから、質問を話してください。",
+    "siriShortcutsSearchHint": " 「{searchPhrase} for what I did today」と言うこともできます。"
 }

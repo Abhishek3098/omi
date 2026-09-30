@@ -11670,4 +11670,14 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get deleteMeetingScreenshotMessage =>
       'Hiermee wordt de schermafbeelding uit de notitie van deze vergadering verwijderd. Dit kan niet ongedaan worden gemaakt.';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return 'Zet Omi aan in Sneltoetsen → Siri. Zeg “$askPhrase” of “$questionPhrase” en stel daarna je vraag.';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' Je kunt ook “$searchPhrase for what I did today” zeggen.';
+  }
 }

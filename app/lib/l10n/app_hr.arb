@@ -11221,5 +11221,7 @@
     "meetingScreenshotsTitle": "Što je bilo na zaslonu",
     "meetingScreenshotFallbackCaption": "Snimka zaslona s ovog sastanka",
     "deleteMeetingScreenshotTitle": "Izbrisati snimku zaslona?",
-    "deleteMeetingScreenshotMessage": "Ovo uklanja snimku zaslona iz bilješke ovog sastanka. Radnja se ne može poništiti."
+    "deleteMeetingScreenshotMessage": "Ovo uklanja snimku zaslona iz bilješke ovog sastanka. Radnja se ne može poništiti.",
+    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
+    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
 }

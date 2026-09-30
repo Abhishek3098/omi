@@ -11673,4 +11673,14 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get deleteMeetingScreenshotMessage =>
       'Снимок экрана будет удалён из заметки этой встречи. Это действие нельзя отменить.';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return 'Включите Omi в Командах → Siri. Скажите «$askPhrase» или «$questionPhrase», затем задайте свой вопрос.';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' Также можно сказать «$searchPhrase for what I did today».';
+  }
 }

@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "ما كان على الشاشة",
     "meetingScreenshotFallbackCaption": "لقطة شاشة من هذا الاجتماع",
     "deleteMeetingScreenshotTitle": "حذف لقطة الشاشة؟",
-    "deleteMeetingScreenshotMessage": "سيؤدي هذا إلى إزالة لقطة الشاشة من ملاحظة هذا الاجتماع. لا يمكن التراجع عن ذلك."
+    "deleteMeetingScreenshotMessage": "سيؤدي هذا إلى إزالة لقطة الشاشة من ملاحظة هذا الاجتماع. لا يمكن التراجع عن ذلك.",
+    "siriShortcutsSetupHint": "شغّل Omi في الاختصارات ← Siri. قل “{askPhrase}” أو “{questionPhrase}” ثم اطرح سؤالك.",
+    "siriShortcutsSearchHint": " يمكنك أيضًا قول “{searchPhrase} for what I did today”."
 }

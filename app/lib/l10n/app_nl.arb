@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "Wat er op het scherm stond",
     "meetingScreenshotFallbackCaption": "Schermafbeelding van deze vergadering",
     "deleteMeetingScreenshotTitle": "Schermafbeelding verwijderen?",
-    "deleteMeetingScreenshotMessage": "Hiermee wordt de schermafbeelding uit de notitie van deze vergadering verwijderd. Dit kan niet ongedaan worden gemaakt."
+    "deleteMeetingScreenshotMessage": "Hiermee wordt de schermafbeelding uit de notitie van deze vergadering verwijderd. Dit kan niet ongedaan worden gemaakt.",
+    "siriShortcutsSetupHint": "Zet Omi aan in Sneltoetsen → Siri. Zeg “{askPhrase}” of “{questionPhrase}” en stel daarna je vraag.",
+    "siriShortcutsSearchHint": " Je kunt ook “{searchPhrase} for what I did today” zeggen."
 }

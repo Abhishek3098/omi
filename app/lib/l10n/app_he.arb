@@ -11221,5 +11221,7 @@
     "meetingScreenshotsTitle": "מה היה על המסך",
     "meetingScreenshotFallbackCaption": "צילום מסך מהפגישה הזו",
     "deleteMeetingScreenshotTitle": "למחוק את צילום המסך?",
-    "deleteMeetingScreenshotMessage": "צילום המסך יוסר מהסיכום של הפגישה הזו. לא ניתן לבטל פעולה זו."
+    "deleteMeetingScreenshotMessage": "צילום המסך יוסר מהסיכום של הפגישה הזו. לא ניתן לבטל פעולה זו.",
+    "siriShortcutsSetupHint": "הפעילו את Omi בקיצורי דרך ← Siri. אמרו “{askPhrase}” או “{questionPhrase}” ואז שאלו את השאלה.",
+    "siriShortcutsSearchHint": " ואפשר גם לומר “{searchPhrase} for what I did today”."
 }

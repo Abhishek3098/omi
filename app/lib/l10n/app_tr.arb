@@ -3696,5 +3696,7 @@
     "meetingScreenshotsTitle": "Ekranda olanlar",
     "meetingScreenshotFallbackCaption": "Bu toplantıdan ekran görüntüsü",
     "deleteMeetingScreenshotTitle": "Ekran görüntüsü silinsin mi?",
-    "deleteMeetingScreenshotMessage": "Bu işlem ekran görüntüsünü bu toplantının notundan kaldırır. Geri alınamaz."
+    "deleteMeetingScreenshotMessage": "Bu işlem ekran görüntüsünü bu toplantının notundan kaldırır. Geri alınamaz.",
+    "siriShortcutsSetupHint": "Kısayollar → Siri içinde Omi’yi etkinleştirin. “{askPhrase}” veya “{questionPhrase}” deyin, sonra sorunuzu sorun.",
+    "siriShortcutsSearchHint": " Ayrıca “{searchPhrase} for what I did today” diyebilirsiniz."
 }

@@ -11670,4 +11670,14 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get deleteMeetingScreenshotMessage =>
       'Zrzut ekranu zostanie usunięty z notatki tego spotkania. Tej operacji nie można cofnąć.';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return 'Włącz Omi w Skrótach → Siri. Powiedz „$askPhrase” albo „$questionPhrase”, a następnie zadaj pytanie.';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' Możesz też powiedzieć „$searchPhrase for what I did today”.';
+  }
 }

@@ -11643,4 +11643,14 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get deleteMeetingScreenshotMessage =>
       'Skärmbilden tas bort från anteckningen för det här mötet. Det går inte att ångra.';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return 'Turn on Omi in Shortcuts → Siri. Say “$askPhrase” or “$questionPhrase,” then speak your question.';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' You can also say “$searchPhrase for what I did today.”';
+  }
 }

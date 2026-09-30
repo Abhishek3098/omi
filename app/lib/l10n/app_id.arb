@@ -3696,5 +3696,7 @@
     "meetingScreenshotsTitle": "Yang ada di layar",
     "meetingScreenshotFallbackCaption": "Tangkapan layar dari rapat ini",
     "deleteMeetingScreenshotTitle": "Hapus tangkapan layar?",
-    "deleteMeetingScreenshotMessage": "Ini akan menghapus tangkapan layar dari catatan rapat ini. Tindakan ini tidak dapat dibatalkan."
+    "deleteMeetingScreenshotMessage": "Ini akan menghapus tangkapan layar dari catatan rapat ini. Tindakan ini tidak dapat dibatalkan.",
+    "siriShortcutsSetupHint": "Aktifkan Omi di Pintasan → Siri. Ucapkan “{askPhrase}” atau “{questionPhrase}”, lalu ajukan pertanyaan Anda.",
+    "siriShortcutsSearchHint": " Anda juga bisa mengatakan “{searchPhrase} for what I did today”."
 }

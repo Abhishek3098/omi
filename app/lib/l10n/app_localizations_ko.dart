@@ -11446,4 +11446,14 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get deleteMeetingScreenshotMessage => '이 회의 노트에서 스크린샷이 삭제됩니다. 되돌릴 수 없습니다.';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return '단축어 → Siri에서 Omi를 켜세요. “$askPhrase” 또는 “$questionPhrase”라고 말한 다음 질문하세요.';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' “$searchPhrase for what I did today”라고 말할 수도 있습니다.';
+  }
 }

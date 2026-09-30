@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "स्क्रीन पर क्या था",
     "meetingScreenshotFallbackCaption": "इस मीटिंग का स्क्रीनशॉट",
     "deleteMeetingScreenshotTitle": "स्क्रीनशॉट हटाएं?",
-    "deleteMeetingScreenshotMessage": "यह इस मीटिंग के नोट से स्क्रीनशॉट हटा देगा। इसे पूर्ववत नहीं किया जा सकता।"
+    "deleteMeetingScreenshotMessage": "यह इस मीटिंग के नोट से स्क्रीनशॉट हटा देगा। इसे पूर्ववत नहीं किया जा सकता।",
+    "siriShortcutsSetupHint": "शॉर्टकट → Siri में Omi चालू करें। “{askPhrase}” या “{questionPhrase}” कहकर अपना प्रश्न पूछें।",
+    "siriShortcutsSearchHint": " आप “{searchPhrase} for what I did today” भी कह सकते हैं।"
 }

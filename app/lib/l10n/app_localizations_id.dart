@@ -11645,4 +11645,14 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get deleteMeetingScreenshotMessage =>
       'Ini akan menghapus tangkapan layar dari catatan rapat ini. Tindakan ini tidak dapat dibatalkan.';
+
+  @override
+  String siriShortcutsSetupHint(String askPhrase, String questionPhrase) {
+    return 'Aktifkan Omi di Pintasan → Siri. Ucapkan “$askPhrase” atau “$questionPhrase”, lalu ajukan pertanyaan Anda.';
+  }
+
+  @override
+  String siriShortcutsSearchHint(String searchPhrase) {
+    return ' Anda juga bisa mengatakan “$searchPhrase for what I did today”.';
+  }
 }

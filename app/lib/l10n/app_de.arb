@@ -3661,5 +3661,7 @@
     "meetingScreenshotsTitle": "Was auf dem Bildschirm war",
     "meetingScreenshotFallbackCaption": "Bildschirmfoto aus diesem Meeting",
     "deleteMeetingScreenshotTitle": "Bildschirmfoto löschen?",
-    "deleteMeetingScreenshotMessage": "Das Bildschirmfoto wird aus der Notiz dieses Meetings entfernt. Dies kann nicht rückgängig gemacht werden."
+    "deleteMeetingScreenshotMessage": "Das Bildschirmfoto wird aus der Notiz dieses Meetings entfernt. Dies kann nicht rückgängig gemacht werden.",
+    "siriShortcutsSetupHint": "Aktiviere Omi unter Kurzbefehle → Siri. Sage „{askPhrase}“ oder „{questionPhrase}“ und stelle dann deine Frage.",
+    "siriShortcutsSearchHint": " Du kannst außerdem „{searchPhrase} for what I did today“ sagen."
 }
