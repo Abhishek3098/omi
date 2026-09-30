@@ -3662,6 +3662,6 @@
     "meetingScreenshotFallbackCaption": "Skärmbild från det här mötet",
     "deleteMeetingScreenshotTitle": "Radera skärmbilden?",
     "deleteMeetingScreenshotMessage": "Skärmbilden tas bort från anteckningen för det här mötet. Det går inte att ångra.",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "Slå på Omi i Genvägar → Siri. Säg ”{askPhrase}” eller ”{questionPhrase}” och ställ sedan din fråga.",
+    "siriShortcutsSearchHint": " Du kan också säga ”{searchPhrase} for what I did today”."
 }

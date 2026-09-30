@@ -11222,6 +11222,6 @@
     "meetingScreenshotFallbackCaption": "Снимак екрана са овог састанка",
     "deleteMeetingScreenshotTitle": "Избрисати снимак екрана?",
     "deleteMeetingScreenshotMessage": "Ово уклања снимак екрана из белешке овог састанка. Не може се опозвати.",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "Укључите Omi у Пречицама → Siri. Реците „{askPhrase}“ или „{questionPhrase}“, а затим поставите своје питање.",
+    "siriShortcutsSearchHint": " Можете рећи и „{searchPhrase} for what I did today“."
 }

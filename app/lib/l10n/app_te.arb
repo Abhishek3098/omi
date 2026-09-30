@@ -11222,6 +11222,6 @@
     "meetingScreenshotFallbackCaption": "ఈ సమావేశం నుండి స్క్రీన్‌షాట్",
     "deleteMeetingScreenshotTitle": "స్క్రీన్‌షాట్‌ను తొలగించాలా?",
     "deleteMeetingScreenshotMessage": "ఇది ఈ సమావేశం నోట్ నుండి స్క్రీన్‌షాట్‌ను తీసివేస్తుంది. దీన్ని రద్దు చేయలేరు.",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "షార్ట్‌కట్స్ → Siri లో Omi ని ఆన్ చేయండి. “{askPhrase}” లేదా “{questionPhrase}” అని చెప్పి, ఆపై మీ ప్రశ్న అడగండి.",
+    "siriShortcutsSearchHint": " మీరు “{searchPhrase} for what I did today” అని కూడా చెప్పవచ్చు."
 }

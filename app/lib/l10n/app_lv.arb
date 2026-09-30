@@ -3662,6 +3662,6 @@
     "meetingScreenshotFallbackCaption": "Ekrānuzņēmums no šīs sapulces",
     "deleteMeetingScreenshotTitle": "Dzēst ekrānuzņēmumu?",
     "deleteMeetingScreenshotMessage": "Ekrānuzņēmums tiks noņemts no šīs sapulces piezīmes. To nevar atsaukt.",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "Ieslēdziet Omi sadaļā Saīsnes → Siri. Sakiet „{askPhrase}“ vai „{questionPhrase}“ un pēc tam uzdodiet savu jautājumu.",
+    "siriShortcutsSearchHint": " Varat arī teikt „{searchPhrase} for what I did today“."
 }

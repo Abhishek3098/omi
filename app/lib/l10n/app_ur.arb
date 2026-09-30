@@ -11222,6 +11222,6 @@
     "meetingScreenshotFallbackCaption": "اس میٹنگ کا اسکرین شاٹ",
     "deleteMeetingScreenshotTitle": "اسکرین شاٹ حذف کریں؟",
     "deleteMeetingScreenshotMessage": "یہ اس میٹنگ کے نوٹ سے اسکرین شاٹ ہٹا دے گا۔ اسے واپس نہیں کیا جا سکتا۔",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "شارٹ کٹس ← Siri میں Omi آن کریں۔ “{askPhrase}” یا “{questionPhrase}” کہیں، پھر اپنا سوال پوچھیں۔",
+    "siriShortcutsSearchHint": " آپ “{searchPhrase} for what I did today” بھی کہہ سکتے ہیں۔"
 }

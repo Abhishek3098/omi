@@ -3662,6 +3662,6 @@
     "meetingScreenshotFallbackCaption": "Kuvakaappaus tästä kokouksesta",
     "deleteMeetingScreenshotTitle": "Poistetaanko kuvakaappaus?",
     "deleteMeetingScreenshotMessage": "Kuvakaappaus poistetaan tämän kokouksen muistiinpanosta. Toimintoa ei voi kumota.",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "Ota Omi käyttöön Pikakomennot → Siri -kohdasta. Sano “{askPhrase}” tai “{questionPhrase}” ja esitä sitten kysymyksesi.",
+    "siriShortcutsSearchHint": " Voit myös sanoa “{searchPhrase} for what I did today”."
 }

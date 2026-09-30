@@ -3662,6 +3662,6 @@
     "meetingScreenshotFallbackCaption": "Ảnh chụp màn hình từ cuộc họp này",
     "deleteMeetingScreenshotTitle": "Xóa ảnh chụp màn hình?",
     "deleteMeetingScreenshotMessage": "Thao tác này sẽ xóa ảnh chụp màn hình khỏi ghi chú của cuộc họp này. Không thể hoàn tác.",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "Bật Omi trong Lối tắt → Siri. Nói “{askPhrase}” hoặc “{questionPhrase}”, sau đó đặt câu hỏi của bạn.",
+    "siriShortcutsSearchHint": " Bạn cũng có thể nói “{searchPhrase} for what I did today”."
 }

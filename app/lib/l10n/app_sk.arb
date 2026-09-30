@@ -3662,6 +3662,6 @@
     "meetingScreenshotFallbackCaption": "Snímka obrazovky z tejto schôdzky",
     "deleteMeetingScreenshotTitle": "Odstrániť snímku obrazovky?",
     "deleteMeetingScreenshotMessage": "Snímka obrazovky sa odstráni z poznámky tejto schôdzky. Túto akciu nie je možné vrátiť.",
-    "siriShortcutsSetupHint": "Turn on Omi in Shortcuts → Siri. Say “{askPhrase}” or “{questionPhrase},” then speak your question.",
-    "siriShortcutsSearchHint": " You can also say “{searchPhrase} for what I did today.”"
+    "siriShortcutsSetupHint": "Zapnite Omi v Skratkách → Siri. Povedzte „{askPhrase}“ alebo „{questionPhrase}“ a potom položte svoju otázku.",
+    "siriShortcutsSearchHint": " Môžete povedať aj „{searchPhrase} for what I did today“."
 }
